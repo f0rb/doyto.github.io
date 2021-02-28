@@ -21,5 +21,4 @@
 * [输出SQL日志](manual/shu-chu-sql-ri-zhi.md)
 * [中间表操作](manual/zhong-jian-biao-cao-zuo.md)
 * [连接表查询](manual/lian-jie-biao-cha-xun.md)
-* [Untitled](manual/untitled.md)
 
