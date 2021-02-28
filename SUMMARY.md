@@ -1,10 +1,10 @@
 # Table of contents
 
-* [DoytoQuery --- A OSM Framework in Java](README.md)
+* [DoytoQuery --- AN OSM Framework in Java](README.md)
 
-## 快速入门
+## 快速入门 <a id="quick-start"></a>
 
-* [入门教程](kuai-su-ru-men/ru-men-jiao-cheng.md)
+* [入门教程](quick-start/ru-men-jiao-cheng.md)
 
 ## 核心对象
 
@@ -13,10 +13,13 @@
   * [Query](he-xin-dui-xiang/he-xin-dui-xiang/query.md)
   * [IdWrapper](he-xin-dui-xiang/he-xin-dui-xiang/idwrapper.md)
 
-## 技术手册
+## 技术手册 <a id="manual"></a>
 
-* [Query对象字段后缀](ji-shu-shou-ce/query-dui-xiang-zi-duan-hou-zhui-1.md)
-* [Query对象字段注解](ji-shu-shou-ce/query-dui-xiang-zi-duan-zhu-jie.md)
-* [数据库方言](ji-shu-shou-ce/zi-duan-lei-xing.md)
-* [输出SQL日志](ji-shu-shou-ce/shu-chu-sql-ri-zhi.md)
+* [Query对象字段后缀](manual/query-dui-xiang-zi-duan-hou-zhui-1.md)
+* [Query对象字段注解](manual/query-dui-xiang-zi-duan-zhu-jie.md)
+* [数据库方言](manual/zi-duan-lei-xing.md)
+* [输出SQL日志](manual/shu-chu-sql-ri-zhi.md)
+* [中间表操作](manual/zhong-jian-biao-cao-zuo.md)
+* [连接表查询](manual/lian-jie-biao-cha-xun.md)
+* [Untitled](manual/untitled.md)
 
