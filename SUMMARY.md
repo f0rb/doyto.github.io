@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DoytoQuery --- AN OSM Framework in Java](README.md)
+* [DoytoQuery --- An OSM Framework in Java](README.md)
 
 ## 快速入门 <a id="quick-start"></a>
 
