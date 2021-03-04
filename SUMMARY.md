@@ -16,7 +16,6 @@
 ## 技术手册 <a id="manual"></a>
 
 * [Query对象字段映射](manual/query-object-field-mappings.md)
-* [Query对象字段注解](manual/query-dui-xiang-zi-duan-zhu-jie.md)
 * [数据库方言](manual/dialect.md)
 * [输出SQL日志](manual/print-sql-logs.md)
 * [中间表操作](manual/zhong-jian-biao-cao-zuo.md)
