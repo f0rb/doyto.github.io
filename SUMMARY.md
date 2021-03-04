@@ -18,7 +18,7 @@
 * [Query对象字段映射](manual/query-object-field-mappings.md)
 * [数据库方言](manual/dialect.md)
 * [输出SQL日志](manual/print-sql-logs.md)
-* [中间表操作](manual/zhong-jian-biao-cao-zuo.md)
-* [连接表查询](manual/lian-jie-biao-cha-xun.md)
+* [中间表操作](manual/associative-sql.md)
+* [连接表查询](manual/join-query.md)
 * [二级缓存](manual/second-level-cache.md)
 
