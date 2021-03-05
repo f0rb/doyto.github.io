@@ -23,17 +23,17 @@
 * [二级缓存](manual/second-level-cache.md)
 * [分表增删查改](manual/crud-for-sharding-table.md)
 
-## 核心组件
+## 核心组件 <a id="core-components"></a>
 
-* [PageQuery](he-xin-zu-jian/pagequery.md)
-* [Persistable](he-xin-zu-jian/persistable/README.md)
-  * [IntegerId](he-xin-zu-jian/persistable/integerid.md)
-  * [LongId](he-xin-zu-jian/persistable/longid.md)
-  * [CommonEntity](he-xin-zu-jian/persistable/commonentity.md)
-* [IdWrapper](he-xin-zu-jian/idwrapper.md)
-* [UserIdProvider](he-xin-zu-jian/useridprovider.md)
-* [AbstractCrudService](he-xin-zu-jian/abstractcrudservice.md)
-* [AbstractDynamicService](he-xin-zu-jian/abstractdynamicservice.md)
-* [Dialect](he-xin-zu-jian/dialect.md)
-* [AssociativeService](he-xin-zu-jian/associativeservice.md)
+* [PageQuery](core-components/pagequery.md)
+* [Persistable](core-components/persistable/README.md)
+  * [IntegerId](core-components/persistable/integerid.md)
+  * [LongId](core-components/persistable/longid.md)
+  * [CommonEntity](core-components/persistable/commonentity.md)
+* [IdWrapper](core-components/idwrapper.md)
+* [UserIdProvider](core-components/useridprovider.md)
+* [AbstractCrudService](core-components/abstractcrudservice.md)
+* [AbstractDynamicService](core-components/abstractdynamicservice.md)
+* [Dialect](core-components/dialect.md)
+* [AssociativeService](core-components/associativeservice.md)
 
