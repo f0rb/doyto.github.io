@@ -4,10 +4,20 @@
 
 在Query对象中可以通过添加不同后缀的字段并赋值，从而在执行过程中生成不同的SQL查询语句。
 
-* Not\("!="\)
-* NotLike\("NOT LIKE"\)
-* Start\("LIKE"\)
-* Like\("LIKE"\)
+### Not
+
+```text
+some_column != ?
+```
+
+### NotLike
+
+### Like
+
+### Start
+
+
+
 * NotIn\("NOT IN"\)
 * In\("IN"\)
 * NotNull\("IS NOT NULL"\)
