@@ -15,7 +15,9 @@
 
 ## 技术手册 <a id="manual"></a>
 
-* [Query对象字段映射](manual/query-object-field-mappings.md)
+* [查询对象字段后缀汇总](manual/suffix-summary.md)
+* [嵌套查询](manual/nested-query.md)
+* [通用查询注解](manual/universal-query-annotation.md)
 * [数据库方言](manual/database-dialect.md)
 * [输出SQL日志](manual/print-sql-logs.md)
 * [中间表操作](manual/associative-sql.md)

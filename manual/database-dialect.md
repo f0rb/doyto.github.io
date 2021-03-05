@@ -28,7 +28,7 @@ public class HSQLDBDialect implements Dialect {
 }
 ```
 
-## 分页配置
+## 配置实现
 
 ### 方式一：yml文件
 
