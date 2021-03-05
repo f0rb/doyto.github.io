@@ -27,15 +27,12 @@
 
 ## 核心组件 <a id="core-components"></a>
 
-* [PageQuery](core-components/pagequery.md)
 * [Persistable](core-components/persistable/README.md)
   * [IntegerId](core-components/persistable/integerid.md)
   * [LongId](core-components/persistable/longid.md)
   * [CommonEntity](core-components/persistable/commonentity.md)
-* [IdWrapper](core-components/idwrapper.md)
-* [UserIdProvider](core-components/useridprovider.md)
-* [AbstractCrudService](core-components/abstractcrudservice.md)
-* [AbstractDynamicService](core-components/abstractdynamicservice.md)
-* [Dialect](core-components/dialect.md)
-* [AssociativeService](core-components/associativeservice.md)
+
+---
+
+* [核心组件](core-components-1.md)
 
