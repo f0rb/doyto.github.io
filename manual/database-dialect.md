@@ -1,6 +1,10 @@
 # 数据库方言
 
-win.doyto.query.core.Dialect
+## 涉及组件
+
+* [Dialect](https://query.doyto.win/core-components/dialect)
+
+## 使用说明
 
 Dialect接口为针对不同的数据库，提供了一个扩展接口Dialect，通过实现该接口对原始sql语句添加分页语法
 
@@ -13,7 +17,7 @@ public interface Dialect {
 }
 ```
 
-#### HSQLDB数据库的一个参考实现
+## 参考实现
 
 ```java
 public class HSQLDBDialect implements Dialect {
@@ -24,9 +28,9 @@ public class HSQLDBDialect implements Dialect {
 }
 ```
 
-### 配置分页
+## 分页配置
 
-#### 方式一：yml文件
+### 方式一：yml文件
 
 {% code title="application.yml" %}
 ```yaml
@@ -37,7 +41,7 @@ doyto:
 ```
 {% endcode %}
 
-#### 方式二：静态方法
+### 方式二：静态方法
 
 ```java
 GlobalConfiguration.instance().setDialect(new HSQLDBDialect())
