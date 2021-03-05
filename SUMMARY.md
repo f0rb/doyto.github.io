@@ -25,14 +25,7 @@
 * [二级缓存](manual/second-level-cache.md)
 * [分表增删查改](manual/crud-for-sharding-table.md)
 
-## 核心组件 <a id="core-components"></a>
-
-* [Persistable](core-components/persistable/README.md)
-  * [IntegerId](core-components/persistable/integerid.md)
-  * [LongId](core-components/persistable/longid.md)
-  * [CommonEntity](core-components/persistable/commonentity.md)
-
 ---
 
-* [核心组件](core-components-1.md)
+* [核心组件](core-components.md)
 
