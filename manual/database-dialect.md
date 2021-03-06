@@ -2,13 +2,10 @@
 
 ## 涉及组件
 
-* [Dialect](https://query.doyto.win/core-components/dialect)
-
-## 使用说明
-
-Dialect接口为针对不同的数据库，提供了一个扩展接口Dialect，通过实现该接口对原始sql语句添加分页语法
-
+{% code title="Dialect.java" %}
 ```java
+package win.doyto.query.core;
+
 public interface Dialect {
     String buildPageSql(String sql, int limit, long offset);
     default String wrapLabel(String fieldName) {
@@ -16,6 +13,11 @@ public interface Dialect {
     }
 }
 ```
+{% endcode %}
+
+## 使用说明
+
+Dialect接口为针对不同的数据库，提供了一个扩展接口Dialect，通过实现该接口对原始sql语句添加分页语法
 
 ## 参考实现
 
