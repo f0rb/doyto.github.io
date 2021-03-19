@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DoytoQuery --- 一个Java实现的OSM框架](README.md)
+* [DoytoQuery——一个Java实现的OSM框架](README.md)
 
 ## 快速入门 <a id="quick-start"></a>
 
