@@ -37,7 +37,27 @@ DoytoQuery是第二代ORM框架的一个Java实现。
 
 ## 功能列表：
 
+### DataAccess层
 
+* JdbcDataAccess
+* MemoryDataAccess——DataAccess的mock实现
+
+### Service层
+
+* 增删查改接口
+* 二级缓存
+* UserId注入
+* EntityAspect扩展
+
+### Controller层
+
+* RestApi
+* 错误码
+* 异常断言
+* 异常处理
+* 响应封装
+* Request/Entity/Response转换
+* 分组校验
 
 [DoytoQuery Manual](https://github.com/f0rb/doyto-query/wiki/DoytoQuery%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C)
 
