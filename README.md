@@ -59,5 +59,3 @@ DoytoQuery是第二代ORM框架的一个Java实现。
 * Request/Entity/Response转换
 * 分组校验
 
-[DoytoQuery Manual](https://github.com/f0rb/doyto-query/wiki/DoytoQuery%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C)
-
