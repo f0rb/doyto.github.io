@@ -39,8 +39,10 @@ DoytoQuery是第二代ORM框架的一个Java实现。
 
 ### DataAccess层
 
-* JdbcDataAccess
-* MemoryDataAccess——DataAccess的mock实现
+* 单表增删查改操作
+* 分表增删查改操作
+* 数据库方言扩展
+* 用于TDD的一个Mock实现
 
 ### Service层
 
