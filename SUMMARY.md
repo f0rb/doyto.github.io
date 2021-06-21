@@ -12,13 +12,6 @@
 * [连接表查询](tutorial/join-query.md)
 * [分表增删查改](tutorial/crud-for-sharding-table.md)
 
----
-
-* [核心对象](core-objects/README.md)
-  * [Entity](core-objects/entity.md)
-  * [Query](core-objects/query.md)
-  * [IdWrapper](core-objects/idwrapper.md)
-
 ## 技术手册 <a id="manual"></a>
 
 * [核心组件](manual/core-components.md)
@@ -28,4 +21,9 @@
 * [数据库方言](manual/database-dialect.md)
 * [输出SQL日志](manual/print-sql-logs.md)
 * [二级缓存](manual/second-level-cache.md)
+
+## Web
+
+* [@JsonBody](web/jsonbody.md)
+* [异常断言](web/exception-assertion.md)
 
