@@ -4,21 +4,28 @@
 
 ## 快速入门 <a id="quick-start"></a>
 
-* [入门教程](quick-start/ru-men-jiao-cheng.md)
+* [入门教程](quick-start/10-minute-tutorials.md)
 
-## 核心对象
+## 教程 <a id="tutorial"></a>
 
-* [核心对象](he-xin-dui-xiang/he-xin-dui-xiang/README.md)
-  * [Entity](he-xin-dui-xiang/he-xin-dui-xiang/entity.md)
-  * [Query](he-xin-dui-xiang/he-xin-dui-xiang/query.md)
-  * [IdWrapper](he-xin-dui-xiang/he-xin-dui-xiang/idwrapper.md)
+* [中间表操作](tutorial/associative-sql.md)
+* [连接表查询](tutorial/join-query.md)
+* [分表增删查改](tutorial/crud-for-sharding-table.md)
+
+---
+
+* [核心对象](core-objects/README.md)
+  * [Entity](core-objects/entity.md)
+  * [Query](core-objects/query.md)
+  * [IdWrapper](core-objects/idwrapper.md)
 
 ## 技术手册 <a id="manual"></a>
 
-* [Query对象字段后缀](manual/query-dui-xiang-zi-duan-hou-zhui-1.md)
-* [Query对象字段注解](manual/query-dui-xiang-zi-duan-zhu-jie.md)
-* [数据库方言](manual/zi-duan-lei-xing.md)
-* [输出SQL日志](manual/shu-chu-sql-ri-zhi.md)
-* [中间表操作](manual/zhong-jian-biao-cao-zuo.md)
-* [连接表查询](manual/lian-jie-biao-cha-xun.md)
+* [核心组件](manual/core-components.md)
+* [查询对象字段后缀汇总](manual/suffix-summary.md)
+* [嵌套查询](manual/nested-query.md)
+* [通用查询注解](manual/universal-query-annotation.md)
+* [数据库方言](manual/database-dialect.md)
+* [输出SQL日志](manual/print-sql-logs.md)
+* [二级缓存](manual/second-level-cache.md)
 
