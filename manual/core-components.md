@@ -1,22 +1,20 @@
 # 核心组件
 
-### PageQuery
+## PageQuery
 
-### Persistable
+## Persistable
 
-### IdWrapper
+## IdWrapper
 
 用于分表增删查改。
 
 传递查询的id和表名的动态字段
 
-### UserIdProvider
+## UserIdProvider
 
-### AbstractCrudService
+## AbstractCrudService
 
-### AbstractDynamicService
+## AbstractDynamicService
 
-### Dialect
-
-
+## Dialect
 

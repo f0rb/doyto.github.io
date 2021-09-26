@@ -5,5 +5,3 @@
 * [IdWrapper](https://query.doyto.win/core-components/idwrapper)
 * AbstractDynamicService
 
-
-

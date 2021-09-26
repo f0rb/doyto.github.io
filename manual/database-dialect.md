@@ -49,5 +49,3 @@ doyto:
 GlobalConfiguration.instance().setDialect(new HSQLDBDialect())
 ```
 
-
-
