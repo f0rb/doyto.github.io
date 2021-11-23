@@ -1,6 +1,6 @@
 # 数据库方言
 
-## 涉及组件
+## 涉及组件
 
 {% code title="Dialect.java" %}
 ```java
@@ -48,6 +48,4 @@ doyto:
 ```java
 GlobalConfiguration.instance().setDialect(new HSQLDBDialect())
 ```
-
-
 
